@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.pt
+*.egg-info
+data/*
+*.DS_Store
+*.log
+checkpoints/*
+runs*
+log.txt
+plot/*
